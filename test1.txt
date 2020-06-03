@@ -1,0 +1,10 @@
+ Volume in drive D is D Drive
+ Volume Serial Number is C6DB-99A3
+
+ Directory of D:\Desktop\My project
+
+05/29/2020  11:21 AM    <DIR>          .
+05/29/2020  11:21 AM    <DIR>          ..
+05/29/2020  11:21 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  49,415,307,264 bytes free
